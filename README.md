@@ -9,4 +9,8 @@ Skills: Python, JavaScript, Tad bit of HTML.
 - 🌱 I’m currently learning PHP, Go, Ruby and C++ 
 - 📫 How to reach me: Booingy#5590 
 - 😄 Pronouns: He/Him 
+
+
+
+
 [![Booingy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Booingy)](https://github.com/anuraghazra/github-readme-stats)
